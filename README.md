@@ -18,7 +18,7 @@
 - ⚡ Fun fact **I am bad at jokes XD.**
 
 <h3 align="left">Connect with me:</h3>
-<a href="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">www.linkedin.com/in/sidakpreet-singh-44b8561b9</a>
+<a href="www.linkedin.com/in/sidakpreet-singh-44b8561b9">https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white</a>
 <p align="left">
 </p>
 
