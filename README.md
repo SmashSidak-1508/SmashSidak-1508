@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Wellness-Wayfinder](https://github.com/SmashSidak-1508/wellness-wayfinder)
 
-- 🌱 I’m currently learning **MERN and MACHINE-LEAENING**
+- 🌱 I’m currently learning **MERN and MACHINE-LEARNING**
 
 - 💬 Ask me about **ML and MERN concepts**
 
